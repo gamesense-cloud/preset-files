@@ -11,7 +11,7 @@ Everything the Fortnite dances and the emote wheel need:
 |---|---|
 | `emotes/csgo_addons/characters/kolka/fortnite_dance.vmdl_c` | The dance model: 79 dances and 39 emotes on the CS2 player skeleton |
 | `emotes/music/` | The dance music (104 songs, `.wav`) |
-| `emotes/icons/` | The emote wheel icons (110, `.png`) |
+| `emotes/icons/` | The emote wheel icons (118, one per dance and emote, `.png`) |
 
 ### Install
 
@@ -32,5 +32,6 @@ Only you see the dances; nothing is sent to the server.
 - Dance model: Kolka's CS2 port, from [Cruze03/FortniteEmotesNDances](https://github.com/Cruze03/FortniteEmotesNDances)
 - Music: from the same project (sound events by GoldKingZ), converted to `.wav`
 - 36 more dances and emotes, and their music: the fortnite_emotes pack (the same model with more sequences)
-- Icons: [fortnite-api.com](https://fortnite-api.com)
+- Icons: [fortnite-api.com](https://fortnite-api.com); the 8 emotes Fortnite has no icon for (Aerobic, Blow Kiss,
+  Shuffle, Luchador, Drive Car, T-Rex, California Gurls, Walky Walk) drawn from their animations in the same style
 - Fortnite, its emotes, music and icons are the property of Epic Games.
